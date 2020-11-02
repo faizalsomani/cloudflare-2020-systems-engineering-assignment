@@ -14,7 +14,7 @@ $ go run main --url <URL> --profile <Total Requests>
 
 ## Response for /links
 
-![](./workerLiinks.JPG)
+![](./workerLinks.JPG)
 
 ## Profiles for different URLs
 
